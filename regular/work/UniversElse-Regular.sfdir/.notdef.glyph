@@ -1,0 +1,20 @@
+
+StartChar: .notdef
+Encoding: 65536 -1 0
+Width: 500
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+100 50 m 1,0,-1
+ 400 50 l 1,1,-1
+ 400 483 l 1,2,-1
+ 100 483 l 1,3,-1
+ 100 50 l 1,0,-1
+50 0 m 1,4,-1
+ 50 533 l 1,5,-1
+ 450 533 l 1,6,-1
+ 450 0 l 1,7,-1
+ 50 0 l 1,4,-1
+EndSplineSet
+EndChar

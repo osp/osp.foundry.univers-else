@@ -1,0 +1,83 @@
+SplineFontDB: 3.0
+FontName: UniversElse-Regular
+FullName: Univers Else Regular 
+FamilyName: Univers Else
+Weight: Book
+Copyright: Pierre Huyghebaert (Typography, initiative, testing)\nPierre Marchand (Development and typography, Fonzie software)\nDelphine Platteeuw (Design and testing)\nGregoire Vigneron (Scanning and assembling)\n\nOSP: December 2010 - Version 1.0 (http://ospublish.constantvzw.org/foundry/univers-else)\n\nUnivers Else is released under the OFL 1.1 -- http://scripts.sil.org/OFL\n\nFor information on what you're allowed to change or modify, \nconsult the OFL-1.1.txt and OFL-FAQ.txt files.  The OFL-FAQ also gives a very general rationale and various recommendations regarding why you would want to contribute to the project or make your own version of the font.
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -300
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+LayerCount: 2
+Layer: 0 1 "Back"  1
+Layer: 1 1 "Fore"  0
+XUID: [1021 658 791704677 5716462]
+FSType: 0
+OS2Version: 3
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1288558372
+ModificationTime: 1297094452
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 90
+VLineGap: 0
+Panose: 2 0 5 3 0 0 0 0 0 0
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 90
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2SubXSize: 650
+OS2SubYSize: 700
+OS2SubXOff: 0
+OS2SubYOff: 140
+OS2SupXSize: 650
+OS2SupYSize: 700
+OS2SupXOff: 0
+OS2SupYOff: 480
+OS2StrikeYSize: 49
+OS2StrikeYPos: 258
+OS2Vendor: 'PfEd'
+OS2CodePages: 00000001.00000000
+OS2UnicodeRanges: 80000007.00000002.00000000.00000000
+DEI: 91125
+ShortTable: maxp 16
+  1
+  0
+  211
+  819
+  5
+  0
+  0
+  2
+  0
+  1
+  1
+  0
+  64
+  0
+  0
+  0
+EndShort
+LangName: 1033 "" "" "Regular " "FontForge : Univers Else Regular  : 9-12-2010" "" "Version 001.000" 
+GaspTable: 1 65535 2
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: Adobe Glyph List
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 60 20 16
+EndSplineFont
